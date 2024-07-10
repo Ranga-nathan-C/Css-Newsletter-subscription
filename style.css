@@ -1,0 +1,24 @@
+.container{
+    border: 2px solid #000 ;
+    margin: 20px;
+    padding: 20px;
+}
+.color{
+    padding: 10px;
+    background-color: rgba(128, 128, 128, 0.295);
+}
+.border{
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid gray;
+}
+input{
+    margin: 15px;
+}
+.button1{
+    padding: 20px;
+    background-color: rgba(128, 128, 128, 0.295);
+}
+.top{
+    margin-top: 50px;
+}
